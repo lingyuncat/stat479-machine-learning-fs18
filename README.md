@@ -10,13 +10,12 @@ Lecture material for the Machine Learning course (STAT 479) at University Wiscon
 
 - [Lecture 1](01_overview): What is Machine Learning? An Overview.
 - [Lecture 2](02_knn): Intro to Supervised Learning: KNN
-- Python, Matplotlib, Jupyter Notebooks
 
 **Part II: Computational Foundations**
 
-- Python, Matplotlib, Jupyter Notebooks
-- NumPy, SciPy, Scikit-Learn
-- Data Preprocessing
+- [Lecture 3](03_python): Using Python, Anaconda, IPython, Jupyter Notebooks
+- [Lecture 4](04_scipython): Scientific Computing with NumPy, SciPy, and Matplotlib
+- Data Preprocessing and Machine Learning with Scikit-Learn
 
 **Part III: Tree-Based Methods**
 
